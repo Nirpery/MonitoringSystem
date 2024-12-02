@@ -1,4 +1,5 @@
-﻿function Get-CredentialsFromFile {
+#יש לשנות את הנתיב בו נמצאים קבצי הסיסמאות ושמות המשתמש
+ function Get-CredentialsFromFile {
     param (
         [string]$usernameFilePath,
         [string]$passwordFilePath
