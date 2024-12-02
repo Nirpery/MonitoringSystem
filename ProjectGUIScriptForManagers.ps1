@@ -1,4 +1,6 @@
-﻿Add-Type -AssemblyName System.Windows.Forms
+#חובה להריץ את הסקריפט הזה כאדמין על מנת לקבל מידע מכלל הכפתורים
+ 
+ Add-Type -AssemblyName System.Windows.Forms
 
 function Execute-SQLQuery {
     param (
