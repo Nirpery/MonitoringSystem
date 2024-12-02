@@ -1,4 +1,4 @@
-﻿
+#יש להוסיף בסוף הסקריפט את הכתובות הרלוונטיות לניטור﻿
 function Execute-SQLQuery {
     param (
         [string]$SQLServer,
