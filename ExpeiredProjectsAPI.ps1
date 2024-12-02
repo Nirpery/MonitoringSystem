@@ -1,4 +1,4 @@
-﻿
+#יש להחליף את הכתובת לכתובת אמיתית ואת פרטי ההתחברות על מנת לקבל את המידע הרצוי﻿
 $apiUrl = "http://moriyaprojectsnonrealurl.nir.co.il/rest/api/expierdprojects"
 $username = "Monitor"
 $password = "Aa123456"
