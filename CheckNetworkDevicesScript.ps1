@@ -40,7 +40,7 @@ function Insert-DeviceStatus {
     Execute-SQLQuery -SQLServer $SQLServer -SQLDBName $SQLDBName -SQLQuery $SQLQuery
 }
 
-#המיקום בו מכניסים את הכתובות של המתגים, המדפסות, חומות האש, מוצרי האחסון 
+#המיקום בו מכניסים את הכתובות של המתגים, המדפסות, חומות האש 
 $ipList = @("127.0.0.1")
 
 foreach ($ip in $ipList) {
