@@ -53,7 +53,7 @@ $form.StartPosition = "CenterScreen"
 
 $labelServer = New-Object System.Windows.Forms.Label
 $labelServer.Text = "Enter Remote Server Name:"
-$labelServer.Size = New-Object System.Drawing.Size(150,20)
+$labelServer.Size = New-Object System.Drawing.Size(240,20)
 $labelServer.Location = New-Object System.Drawing.Point(10,20)
 $form.Controls.Add($labelServer)
 
